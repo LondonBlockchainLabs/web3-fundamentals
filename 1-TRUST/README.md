@@ -33,7 +33,7 @@ We will be discussing the course in the #web3-fundamentals channel on Slack asyn
 
 - [Security Notes](../resources/ker-security-notes.pdf): Chapters 1,2, recommended 3
 
-##  PATHWAY
+## ONRAMP PATHWAY
 
 - [How to read code](https://blog.usejournal.com/when-you-finish-reading-this-youll-know-how-to-code-721339942b51) (first half: to "APIs")
 - Crash Course: Computer Science
