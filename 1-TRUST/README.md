@@ -1,7 +1,8 @@
+![LABS](../resources/labs.png)
+
 # 1: TRUST
 
 
-![LABS](../resources/labs.png)
 
 _Web3 Fundamentals_
 
