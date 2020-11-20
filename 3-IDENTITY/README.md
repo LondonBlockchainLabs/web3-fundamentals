@@ -4,6 +4,7 @@
 # 3: IDENTITY
 
 - [An introduction to Self-Sovereign Identity](https://www.youtube.com/watch?v=djhYZZ3CkuM) (SSI Ambassador)
+- [The true meaning of identity](https://www.youtube.com/watch?v=AydQmOTcECk) (Kaliya Young)
 - [Blockchain in Digital Identity](https://consensys.net/blockchain-use-cases/digital-identity/) (Consensys)
 - [A Gentle Introduction to Verifiable Credentials](https://www.evernym.com/blog/gentle-introduction-verifiable-credentials/) (Evernym)
 - [How Electronic Identity Makes Life Easier in Estonia](https://e-estonia.com/eid-in-estonia/) (e-estonia, 6 minute video) 
