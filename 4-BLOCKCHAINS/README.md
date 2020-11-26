@@ -16,19 +16,15 @@ _Web3 Fundamentals, LABS @ LBL_
 
 ### Smart Contract Development Best Practices
 
-[Use a development environment](https://yos.io/2019/11/10/smart-contract-development-best-practices/#use-a-development-environment)
-- Install Truffle
-- Early docs
+We will be following through the [Smart Contract Development Best Practices](https://yos.io/2019/11/10/smart-contract-development-best-practices/#use-a-development-environment) guide. This will help us learn key concepts and tools to build sophisticated decentralized application architectures. 
 
-[Develop locally](https://yos.io/2019/11/10/smart-contract-development-best-practices/#develop-locally)
-- Install Ganache
-- Docs
+Start by familiarizing yourself with some of these ideas, installing Truffle and Ganache, and the Static Analysis Tools. 
 
-[Use static analysis tools](https://yos.io/2019/11/10/smart-contract-development-best-practices/#use-static-analysis-tools)
-- Install
-- Learn
+There is a large toolset we'll need to learn so don't get too worried about using it all off the bat - just start getting familiar. 
 
-[Cryptozombies](https://cryptozombies.io/) - a fun interactive tutorial if you want to do some more codin'.
+If you want to code, go to [Cryptozombies](https://cryptozombies.io/) - a fun interactive tutorial if you want to do some more codin' - and some of the tutorials on [studio.ethereum.org](https://studio.ethereum.org/). These abstract a lot of the complexity of the tools we'll use so we can easily write, compile, deploy and interact with contracts quickly - good for learning, less for engineering. 
+
+We also have some people learning Vyper, so if you're more familiar with Python and want to learn this pythonic language (which compiles to EVM-compatible bytecode, just like Solidity does), do it! Let's talk it all over in the `#labs-engineering` channel in Slack.
 
 ## ONRAMP PATHWAY
 
