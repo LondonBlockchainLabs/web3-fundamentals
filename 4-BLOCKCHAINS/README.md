@@ -37,3 +37,9 @@ We also have some people learning Vyper, so if you're more familiar with Python 
 ### Data Analysis
 
 - [Learn Python for free](https://scrimba.com/learn/python) from Scrimba - Lessons 11-22
+
+## More on Eth2
+
+[Ethereum 2.0 Explained](https://medium.com/interdax/ethereum-2-0-explainer-e996ac7dc006)
+
+[EIP1559: The Final Puzzle Piece to Ethereum's Monetary Policy](https://medium.com/@TrustlessState/eip-1559-the-final-puzzle-piece-to-ethereums-monetary-policy-58802ab28a27)
