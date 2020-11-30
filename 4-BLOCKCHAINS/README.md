@@ -5,7 +5,6 @@ _Web3 Fundamentals, LABS @ LBL_
 ## CORE READINGS
 
 - [The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274)
-- [Public vs Private Blockchain in a nutshell](https://medium.com/coinmonks/public-vs-private-blockchain-in-a-nutshell-c9fe284fa39f)
 - [The Eth2 Vision](https://ethereum.org/en/eth2/vision/)
 - [An Introduction to Hyperledger](https://www.hyperledger.org/wp-content/uploads/2018/08/HL_Whitepaper_IntroductiontoHyperledger.pdf) Pages 1-11
 - [Getting Started with Corda DLT](https://blog.accubits.com/corda-dlt-a-simple-introduction/)
