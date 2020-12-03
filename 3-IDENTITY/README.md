@@ -1,6 +1,3 @@
-
-
-
 # 3: IDENTITY
 
 - [An introduction to Self-Sovereign Identity](https://www.youtube.com/watch?v=djhYZZ3CkuM) (SSI Ambassador)
