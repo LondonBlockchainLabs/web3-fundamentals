@@ -6,10 +6,29 @@ contract Coin {
     // Learn more: https://solidity.readthedocs.io/en/v0.5.10/types.html#address
     address public owner;
 
+
+    /**
+    
+    address1: true
+    address2: false
+    address3: true
+     */
+
+
     // A `mapping` is essentially a hash table data structure.
     // This `mapping` assigns an unsigned integer (the token balance) to an address (the token holder).
     // Learn more: https://solidity.readthedocs.io/en/v0.5.10/types.html#mapping-types
     mapping (address => uint) public balances;
+
+        /**
+        
+        address1: 300+400 = 700
+        address2: 200
+        address3: 300
+        address4: 400
+        0x25bdFF8dB8d80971935A7f38A0CF31DeC62f7696: 1000000000
+         */
+         
 
     // Events allow for logging of activity on the blockchain.
     // Ethereum clients can listen for events in order to react to contract state changes.
@@ -23,8 +42,11 @@ contract Coin {
         // `msg` is a global variable that includes relevant data on the given transaction,
         // such as the address of the sender and the ETH value included in the transaction.
         // Learn more: https://solidity.readthedocs.io/en/v0.5.10/units-and-global-variables.html#block-and-transaction-properties
+        
         owner = msg.sender;
+      
     }
+
 
     // Creates an amount of new tokens and sends them to an address.
     function mint(address receiver, uint amount) public {
@@ -56,3 +78,4 @@ contract Coin {
         emit Transfer(msg.sender, receiver, amount);
     }
 }
+

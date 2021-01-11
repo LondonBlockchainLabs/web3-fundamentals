@@ -34,3 +34,4 @@
 ## EXTRAS
 
 - [$1 Billion of Silk Road Bitcoins Are On The Move](https://www.linkedin.com/pulse/1-billion-silk-road-bitcoins-move-tom-robinson) (Robinson)
+- [Overview of Decentralized Identity Standards](https://medium.com/decentralized-identity/overview-of-decentralized-identity-standards-f82efd9ab6c7)
